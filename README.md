@@ -17,4 +17,4 @@ Takes a .bmp, randomises the location of each pixel and then runs a cheeky bubbl
 > you may think that it's similar to the first shown image. That's because it literally is identical to it. There's literally no point for this program but to waste time and resources. 
 
 # WANT TO SEE WHAT ART LOOKS LIKE AS IT'S BEING CREATED?
->check out the video I've uploaded of the program running: https://youtu.be/vtxfImKsJaA
+>check out the video I've uploaded of the program running: www.youtube.com/watch?v=vtxfImKsJaA
