@@ -3,10 +3,10 @@ Takes a .bmp, randomises the location of each pixel and then runs a cheeky bubbl
 
 # GOT A BMP FILE YOU WANT TO A PROGRAM TO SCRAMBLE UP AND THEN SPIT OUT NEARLY A MILLION USELESS IMAGES? WANT THEM THEN TO COMBINIE FOR A TOTAL OF POSSIBLY HUNDREDS OF GIGABYTES OF ABSOLUTELY SHIT ALL??
 
->looks like you submled into the right place then
+>looks like you moseyed on into the right place then, parder'🤠
 
 # WHAT'S IT ACTUALLY DO?
->Takes in an image (must be bmp rn casue I want it to take up literally as much space as possible), such as this: ![example photo](https://github.com/LewisFramps/Image-Bubble-Sort/blob/master/Danny's%20Sorted!.bmp)
+>Takes in an image (must be bmp rn casue I want it to take up literally as much space as possible, project goal was to be as obtuse and useless as possbile after all), such as this: ![example photo](https://github.com/LewisFramps/Image-Bubble-Sort/blob/master/Danny's%20Sorted!.bmp)
 
 >then it scrambles it up real good until it looks like this: ![example photo](https://github.com/LewisFramps/Image-Bubble-Sort/blob/master/Danny's%20not%20sorted.bmp)
 
@@ -14,7 +14,7 @@ Takes a .bmp, randomises the location of each pixel and then runs a cheeky bubbl
 
 > after probably a stupid amount of time and a stupid amount of storage space, it spits a sorted image out: ![example photo](https://github.com/LewisFramps/Image-Bubble-Sort/blob/master/Danny's%20Sorted!.bmp)
 
-> you may think that it's similar to the first shown image. That's because it literally is identical to it. There's literally no point for this program but to waste time and resources. 
+> you may think that it's similar to the first shown image. That's because it literally is identical to it. There's literally no point for this program but to waste time and resources. I made a program that took 6 hours and used 80gb of storage space with no clear benefit at all.
 
 # WANT TO SEE WHAT ART LOOKS LIKE AS IT'S BEING CREATED?
 >check out the video I've uploaded of the program running: www.youtube.com/watch?v=vtxfImKsJaA
